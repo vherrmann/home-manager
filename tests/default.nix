@@ -182,6 +182,7 @@ import nmt {
     ./modules/services/borgmatic
     ./modules/services/cachix-agent
     ./modules/services/clipman
+    ./modules/services/darkman
     ./modules/services/devilspie2
     ./modules/services/dropbox
     ./modules/services/emacs
